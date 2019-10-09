@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+*.swp
+sqlite.db
+.env
+*.egg-info*
+*~
+.gitconfig
+MANIFEST
+build
+dist
+__pycache__
+.DS_Store
+venv
