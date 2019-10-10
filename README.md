@@ -2,7 +2,7 @@
 ## Setup Instructions
 1. Git clone the application repository.
 ```
-	git clone https://github.com/duosecurity/duo_python.git
+	git clone https://github.com/ciscose/duo_django_dashboard.git
 ```
 
 2. Change directory to the cloned folder.
