@@ -1,3 +1,5 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/CiscoSE/duo_django_dashboard)
+
 # Duo Django Dashboard Demo
 ## Setup Instructions
 1. Git clone the application repository.
