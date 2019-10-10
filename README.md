@@ -36,7 +36,7 @@ Make sure the Web SDK application global policy is set as:
 
 **Enabled**.    **New User Policy**.    Prompt unenrolled users to enroll whenever possible.
 
-1. Open up your code editor (e.g. Visual Studio Code), and add the Duo Integration Key, Secret Key and the API Host to _settings.py_ (in the *duo_python_dashboard/demos/django/example_site* folder).
+9. Open up your code editor (e.g. Visual Studio Code), and add the Duo Integration Key, Secret Key and the API Host to _settings.py_ (in the _duo_python_demos_django_example_site/ folder).
 
 * DUO_IKEY = Integration key
 * DUO_SKEY = Secret Key
@@ -61,7 +61,14 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-14. Create 2 users that will authenticate in the Django web app.  The users created are user1 and user2.  Both users have the password set as C1sco12345.
+14. Create 2 users that will authenticate in the Django web app.  The users created are:
+
+* Username: user1 
+* Password: Cisco12345
+
+* Username: user2
+* Password: C1sco12345
+
 ```
 python create_users.py
 ```
