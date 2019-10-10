@@ -80,6 +80,6 @@ python create_users.py
 
 16. Open a browser and go to http://127.0.0.1:8000 and login using user1.
 
-17. After you login you will see the non-Duo protected dashboard.  Click on the the dashboard “DB Configuration” button and follow the Duo prompts to setup user1 with 2 gator authentication.
+17. After you login you will see the non-Duo protected dashboard.  Click on the the dashboard “DB Configuration” button and follow the Duo prompts to setup user1 with 2 factor authentication.
 
 18. Experiment with the dashboard navigation buttons to see how the dashboard database configuration is protected by 2FA.
