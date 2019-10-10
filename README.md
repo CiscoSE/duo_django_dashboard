@@ -38,9 +38,9 @@ Make sure the Web SDK application global policy is set as:
 
 9. Open up your code editor (e.g. Visual Studio Code), and add the Duo Integration Key, Secret Key and the API Host to _settings.py_ (in the _duo_python_demos_django_example_site/ folder).
 
-DUO_IKEY = Integration key
-DUO_SKEY = Secret Key
-DUO_HOST = API Host  
+* DUO_IKEY = Integration key
+* DUO_SKEY = Secret Key
+* DUO_HOST = API Host  
 
 10. You are missing one value (the _DUO_AKEY_), which you have to generate yourself and keep secret from Duo. The security of your Duo application is tied to the security of your skey and akey. Treat these pieces of data like a password. They should be stored in a secure manner with limited access, whether that is in a database, a file on disk, or another storage mechanism.
 
