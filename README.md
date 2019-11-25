@@ -87,6 +87,6 @@ python create_users.py
 18. Experiment with the dashboard navigation buttons to see how the dashboard database configuration is protected by 2FA.
 
 # Additional Resources
-[Duo's Wed SDK in 6 Minutes Video](https://duo.com/resources/videos/set-up-two-factor-authentication-with-duo-s-web-sdk)
-[Duo Web SDK's](https://github.com/duosecurity)
-[Duo Web Two-Factor Authentication for Your Web Application](https://duo.com/docs/duoweb)
+* [Duo's Wed SDK in 6 Minutes Video](https://duo.com/resources/videos/set-up-two-factor-authentication-with-duo-s-web-sdk)
+* [Duo Web SDK's](https://github.com/duosecurity)
+* [Duo Web Two-Factor Authentication for Your Web Application](https://duo.com/docs/duoweb)
