@@ -1,6 +1,9 @@
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/CiscoSE/duo_django_dashboard)
 
 # Duo Django Dashboard Demo
+
+In this Demo you will go through an example of how to add multi-factor authentication to a web app. This is a good example of a Cisco App-First Security use case. Please follow the instructions below to get started!
+
 ## Setup Instructions
 1. Git clone the application repository.
 ```
